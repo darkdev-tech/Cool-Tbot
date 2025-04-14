@@ -1,0 +1,10 @@
+services:
+  - type: worker
+    name: cool_kid_bot
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: node app.js
+    envVars:
+      - key: BOT_TOKEN
+        value: your_telegram_bot_token_here
