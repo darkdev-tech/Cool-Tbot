@@ -1,14 +1,11 @@
 {
   "name": "cool-tbot",
   "version": "1.0.0",
-  "description": "A Telegram bot",
-  "main": "bot.js",
+  "description": "A Telegram bot built with node-telegram-bot-api",
+  "main": "main.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node main.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
   "dependencies": {
     "node-telegram-bot-api": "^0.61.0"
   }
