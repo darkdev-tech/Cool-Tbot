@@ -1,20 +1,15 @@
 {
   "name": "cool-tbot",
   "version": "1.0.0",
-  "main": "core/index.js",
+  "description": "A Telegram bot",
+  "main": "bot.js",
   "scripts": {
-    "start": "node core/index.js"
+    "start": "node bot.js"
   },
-  "engines": {
-    "node": ">=16.0.0"
-  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
   "dependencies": {
-    "baileys": "^6.5.0",
-    "chalk": "^5.3.0",
-    "figlet": "^1.6.0",
-    "moment-timezone": "^0.5.40",
-    "node-fetch": "^2.6.9",
-    "pino": "^8.15.0",
-    "qrcode-terminal": "^0.12.0"
+    "node-telegram-bot-api": "^0.61.0"
   }
 }
