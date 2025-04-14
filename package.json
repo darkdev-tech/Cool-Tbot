@@ -1,0 +1,24 @@
+{
+  "name": "cool_kid_bot",
+  "version": "2.0.0",
+  "description": "A multipurpose Telegram bot built with Telegraf",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "telegraf",
+    "cool_kid"
+  ],
+  "author": "YourNameHere",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "telegraf": "^4.12.2"
+  }
+}
