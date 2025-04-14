@@ -1,7 +1,7 @@
 {
   "name": "cool_kid_bot",
   "version": "2.0.0",
-  "description": "A multipurpose Telegram bot built with Telegraf",
+  "description": "A multipurpose Telegram bot built with COOL_KID",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
