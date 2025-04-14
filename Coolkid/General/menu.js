@@ -12,6 +12,7 @@ module.exports = {
 • /system — Bot system info  
 • /uptime — Bot uptime  
 • /menu — This menu  
+• /help — Bot usage help
 
 *🔍 Search*
 • /wikipedia — Search Wikipedia  
@@ -36,7 +37,7 @@ module.exports = {
 
 ━━━━━━━━━━━━━━━
 *🔗 Join our WhatsApp Channel:*  
-[Click here](https://whatsapp.com/channel/your-channel-id)
+[Click here](https://whatsapp.com/channel/0029VarDt9t30LKL1SoYXy26)
 
 *╰─ Powered by COOL_KID ─╯*
     `.trim();
