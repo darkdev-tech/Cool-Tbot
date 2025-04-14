@@ -15,7 +15,7 @@ Here's what you can do:
 • Categories: AI, Anime, General, Downloader, Search
 
 Need something or found a bug?
-Contact: @your_support_username
+Contact: https://wa.me/+254107065646
 
 ━━━━━━━━━━━━━━━
 *Join our WhatsApp Channel:*  
