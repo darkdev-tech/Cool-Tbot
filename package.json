@@ -1,24 +1,22 @@
 {
-  "name": "cool_kid_bot",
-  "version": "2.0.0",
-  "description": "A multipurpose Telegram bot built with COOL_KID",
-  "main": "app.js",
+  "name": "cool-tbot",
+  "version": "1.0.0",
+  "description": "A Telegram bot built with Node.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "keywords": [
     "telegram",
     "bot",
-    "telegraf",
-    "cool_kid"
+    "nodejs"
   ],
-  "author": "YourNameHere",
+  "author": "darkdev-tech",
   "license": "MIT",
-  "engines": {
-    "node": ">=16.0.0"
-  },
   "dependencies": {
-    "axios": "^1.6.8",
-    "telegraf": "^4.12.2"
+    "axios": "^1.6.7",
+    "dotenv": "^16.3.1",
+    "node-fetch": "^3.3.2",
+    "telegraf": "^4.16.2"
   }
 }
