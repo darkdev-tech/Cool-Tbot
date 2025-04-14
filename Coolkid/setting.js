@@ -4,7 +4,7 @@ async function rebotCommand(msg, bot) {
   const chatId = msg.chat.id;
   
   // Optional: Owner check (replace with your Telegram ID)
-  const ownerId = 123456789;
+  const ownerId = 6827359836;
   if (msg.from.id !== ownerId) {
     return bot.sendMessage(chatId, 'Only the bot owner can use this command.');
   }
